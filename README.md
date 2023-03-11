@@ -1,0 +1,2 @@
+# haskell-studying
+studying haskell
